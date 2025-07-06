@@ -4,8 +4,8 @@
 This project analyzes Amazon product and review data to generate insights that support better pricing, product positioning, and customer engagement strategies. The analysis was done using Microsoft Excel, including Pivot Tables, calculated columns, and visualizations.
 
 ## 📂 Dataset
-- [`amazon_raw_data.xlsx`](data/amazon_raw_data.xlsx) — Original dataset
-- [`amazon_cleaned.xlsx`](data/amazon_cleaned.xlsx) — Cleaned dataset used for analysis
+- [`amazon_raw_data.xlsx`](data/amazon_case_study.xlsx) — Original dataset
+- [`amazon_cleaned.xlsx`](data/amazon_case_study_cleaned.xlsx) — Cleaned dataset used for analysis
 
 ## 📊 Key Metrics Analyzed
 - Average discount by product category
@@ -25,9 +25,9 @@ This project analyzes Amazon product and review data to generate insights that s
   - Dashboard design
 
 ## 📄 Deliverables
-- [`amazon_pivot_outputs.xlsx`](analysis/amazon_pivot_outputs.xlsx) — Pivot table results
-- [`amazon_dashboard.xlsx`](dashboard/amazon_dashboard.xlsx) — Excel dashboard
-- [`rating_vs_discount_scatter.png`](analysis/rating_vs_discount_scatter.png) — Chart showing rating vs discount
+- [`amazon_pivot_outputs.xlsx`](analysis/pivot_tables_outputs.xlsx) — Pivot table results
+- [`amazon_dashboard.xlsx`](dashboard/dashboard.xlsx) — Excel dashboard
+
 
 ## 🔍 Key Insights
 - Electronics and Home & Kitchen are among the most reviewed and discounted categories.
